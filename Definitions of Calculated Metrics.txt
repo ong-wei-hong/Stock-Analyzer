@@ -1,0 +1,11 @@
+Gross Margin: Ratio of Gross Profit to Total Revenue (Gross Profit / Total Revenue)
+
+Net Income Applicable to Common Shares (NIACS) / Revenue: Ratio of NIACS to Total Revenue (NIACS / Total Revenue)
+
+Revenue Growth: Increase in Total Revenue against the Previous Year's (Total Revenue (Year n) / Total Revenue (Year n-1))
+
+NIACS growth: Increase in NIACS against the Previous Year's (NIACS (Year n) / NIACS (Year n-1))
+
+Total Debt: Sum of Short Long Term Debt and Long Term Debt (Short Long Term Debt + Long Term Debt)
+
+Debt to Equity: Ratio of Total Debt to Total Stockholder Equity ((Short Long Term Debt + Long Term Debt) / Total Stockholder Equity)
